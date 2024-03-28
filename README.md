@@ -2,7 +2,7 @@
 
 ## What is ciscord?
 
-Ciscord is an alternative to Discord, written in C.
+Ciscord is an alternative to Discord, written in C++.
 
 ## Features:
 
